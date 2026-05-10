@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>HTML Image Example</title>
+</head>
+<body>
+  <h2>HTML Image Example</h2>
+  <!-- The (img) tag embeds an image -->
+  <!-- Attributes used: src (image URL), alt (alternate text), width and height -->
+
+  <img src="https://www.shutterstock.com/image-photo/sun-sets-behind-mountain-ranges-600nw-2479236003.jpg" alt="Placeholder Image" width="150" height="150" />
+
+  <p>
+    The (img) tag inserts an image into the webpage.<br />
+    Use the (src) attribute to specify the image URL.<br />
+    Use the (alt) attribute to provide alternate text if the image cannot load while explaing the image .<br />
+    You can also specify size using (width) and (height) attributes.
+  </p>
+</body>
+</html>
