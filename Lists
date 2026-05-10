@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>HTML Lists Example</title>
+</head>
+<body>
+  <!-- Unordered List: items marked with bullets -->
+  <h2>Unordered List (ul)</h2>
+  <ul>
+    <li>Item 1</li>
+    <li>Item 2</li>
+    <li>Item 3</li>
+  </ul>
+
+  <!-- Ordered List: items numbered automatically -->
+  <h2>Ordered List (ol)</h2>
+  <ol>
+    <li>First item</li>
+    <li>Second item</li>
+    <li>Third item</li>
+  </ol>
+
+  <!-- Description List: pairs terms with descriptions -->
+  <h2>Description List (dl)</h2>
+  <dl>
+    <dt>HTML</dt>
+    <dd>The standard markup language for creating web pages.</dd>
+    <dt>CSS</dt>
+    <dd>Stylesheet language used to describe the look of a document written in HTML.</dd>
+  </dl>
+
+</body>
+</html>
