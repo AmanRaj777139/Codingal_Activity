@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width" />
+  <title>Sportsmen and Sportswomen</title>
+</head>
+
+<body>
+  <table border="2" cellspacing="0" cellpadding="8" style="border-collapse: collapse; width: 70%; margin: 20px auto;">
+    <tr style="background-color: #004aad; color: white;">
+      <th>Sport</th>
+      <th>Male Athlete</th>
+      <th>Female Athlete</th>
+    </tr>
+    <tr style="background-color: #cfe3ff; text-align: center;">
+      <td>Tennis</td>
+      <td>Roger Federer</td>
+      <td>Serena Williams</td>
+    </tr>
+    <tr style="background-color: #dce9ff; text-align: center;">
+      <td>Football</td>
+      <td>Lionel Messi</td>
+      <td>Megan Rapinoe</td>
+    </tr>
+    <tr style="background-color: #cfe3ff; text-align: center;">
+      <td>Basketball</td>
+      <td>LeBron James</td>
+      <td>Breanna Stewart</td>
+    </tr>
+    <tr style="background-color: #dce9ff; text-align: center;">
+      <td>Athletics</td>
+      <td>Usain Bolt</td>
+      <td>Shelly-Ann Fraser-Pryce</td>
+    </tr>
+  </table>
+</body>
+
+</html>
