@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>HTML iframe</title>
+</head>
+<body>
+  <h2>HTML iframe Example</h2>
+  <!-- The (iframe) tag embeds another webpage inside the current page -->
+  <!-- Attributes: src (URL of the page), width, height, title -->
+
+  <iframe 
+    src="https://en.wikipedia.org/wiki/Coding" 
+    width="600" 
+    height="400" 
+    title="wikipedia Website" 
+    style="border: 2px solid #004aad;">
+  </iframe>
+
+  <p>
+    Use the (iframe) tag to embed an external webpage or content.<br />
+    The (src) attribute specifies the URL.<br />
+    Specify size with (width) and (height).<br />
+    Use (title) for accessibility.
+  </p>
+</body>
+</html>
