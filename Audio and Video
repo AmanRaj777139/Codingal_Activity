@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>HTML Audio and Video</title>
+</head>
+<body>
+  <h2>HTML Audio Example</h2>
+  <!-- (audio) tag embeds sound content -->
+  <!-- Attributes: controls (show player), src (audio file), autoplay, loop, muted -->
+
+  <audio controls>
+    <source src="https://www.w3schools.com/html/horse.mp3" type="audio/mpeg" />
+  </audio>
+
+  <h2>HTML Video Example</h2>
+  <!-- (video) tag embeds video content -->
+  <!-- Attributes: controls, width, height, autoplay, loop, muted -->
+
+  <video width="320" height="240" controls>
+    <source src="https://www.w3schools.com/html/mov_bbb.mp4" type="video/mp4" />
+    Your browser does not support the video element.
+  </video>
+
+  <p>
+    Use the (audio) tag to embed sound files.<br />
+    Use the (video) tag to embed video files.<br />
+    Always include (source) elements inside with the file URLs and types.<br />
+    Add (controls) attribute to show play/pause interface.
+  </p>
+</body>
+</html>
