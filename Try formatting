@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Try Formatting Example</title>
+</head>
+<body>
+  <!-- Formatting text examples -->
+
+  <p><b>This text is bold using (b) tag.</b></p>
+  <p><strong>This text is strong (bold) using (strong) tag.</strong></p>
+
+  <p><i>This text is italic using (i) tag.</i></p>
+  <p><em>This text is emphasized (italic) using (em) tag.</em></p>
+
+  <p><u>This text is underlined using (u) tag.</u></p>
+
+  <p><small>This text is smaller using (small) tag.</small></p>
+  <p><mark>This text is highlighted using (mark) tag.</mark></p>
+
+  <p><del>This text is deleted/strikethrough using (del) tag.</del></p>
+
+  <!-- 
+    Use these tags to format parts of your text for different emphasis and styling.
+  -->
+</body>
+</html>
